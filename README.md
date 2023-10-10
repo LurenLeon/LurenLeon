@@ -5,7 +5,7 @@
 - <b>Network Segmentation</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Reconnaissance</b>
-  - [Reconnaissance, Penetration Testing, and Traffic Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Reconnaissance, Penetration Testing, and Traffic Analysis](https://github.com/LurenLeon/Reconnaissance)
 - <b>DDoS Simulation</b>
   - [Simulated DDoS Attack with TCL](https://github.com/LurenLeon/DDoS-Simulation/)
 - <b>Raspberry Pi</b>
