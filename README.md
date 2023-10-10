@@ -3,15 +3,15 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Network Segmentation</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Secure Network Architecture Design and Firewalling](https://github.com/LurenLeon/Secure-Network-Architecture-)
 - <b>Reconnaissance</b>
   - [Reconnaissance, Penetration Testing, and Traffic Analysis](https://github.com/LurenLeon/Reconnaissance)
 - <b>DDoS Simulation</b>
   - [Simulated DDoS Attack with TCL](https://github.com/LurenLeon/DDoS-Simulation/)
 - <b>Raspberry Pi</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [TO BE ADDED](https://github.com/)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [TO BE ADDED](https://github.com/)
   - <b>Raspberry Pi</b>
   - <b>HackTheBox</b>
   - <b>CTF Writeups</b>
