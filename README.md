@@ -4,8 +4,8 @@
 
 - <b>Network Segmentation</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Reconnaissance</b>
+  - [Reconnaissance, Penetration Testing, and Traffic Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>DDoS Simulation</b>
   - [Simulated DDoS Attack with TCL](https://github.com/LurenLeon/DDoS-Simulation/)
 - <b>Raspberry Pi</b>
