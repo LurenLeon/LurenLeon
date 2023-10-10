@@ -20,7 +20,7 @@
 
 <h2>Personal Azure Website</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Securing an Azure Web App](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
