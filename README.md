@@ -22,7 +22,7 @@
 <h2>Azure Projects</h2>
 
 - [Securing an Azure Web App](https://www.github.com)
-- [Creating a Honeypot with Azure and tracking Live Cyber Attacks!] (https://github.com/LurenLeon/Azure-Sentinel--Mapping-Live-Cyber-Attacks/blob/main/README.md)
+- [Creating a Honeypot with Azure and tracking Live Cyber Attacks!](https://github.com/LurenLeon/Azure-Sentinel--Mapping-Live-Cyber-Attacks/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
