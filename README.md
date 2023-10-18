@@ -13,14 +13,16 @@
 - <b>Python</b>
   - [TO BE ADDED](https://github.com/)
   - <b>Raspberry Pi</b>
+  - [Setting up Pihole](https://github.com/)
   - <b>HackTheBox</b>
   - <b>CTF Writeups</b>
   - <b>Bootcamp Activities</b>
 
 
-<h2>Personal Azure Website</h2>
+<h2>Azure Projects</h2>
 
 - [Securing an Azure Web App](https://www.github.com)
+- [Creating a Honeypot with Azure and tracking Live Cyber Attacks!] (https://github.com/LurenLeon/Azure-Sentinel--Mapping-Live-Cyber-Attacks/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
