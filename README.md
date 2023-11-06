@@ -9,14 +9,14 @@
 - <b>DDoS Simulation</b>
   - [Simulated DDoS Attack with TCL](https://github.com/LurenLeon/DDoS-Simulation/)
 - <b>Raspberry Pi</b>
-  - [Ad Blocker with Pi-Hole]
+  - Ad Blocker with Pi-Hole
 - <b>Python</b>
-  - [Webscrapper for Covid Data]
+  - Webscrapper for Covid Data
   - <b>Raspberry Pi</b>
-  - [Setting up Pihole](https://github.com/)
+  - Setting up Pihole
   - <b>HackTheBox</b>
   - <b>CTF Writeups</b>
-    -[TotalRekall Offensive Security Project]
+  -TotalRekall Offensive Security Project
   - <b>Bootcamp Activities</b>
 
 
