@@ -16,7 +16,7 @@
   - Setting up Pihole
   - <b>HackTheBox</b>
   - <b>CTF Writeups</b>
-  - [TotalRekall Offensive Security Project](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/tree/main)
+    - [TotalRekall Offensive Security Project](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/tree/main)
   - <b>Bootcamp Activities</b>
 
 
