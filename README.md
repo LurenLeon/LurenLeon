@@ -12,12 +12,11 @@
   - Ad Blocker with Pi-Hole
 - <b>Python</b>
   - Webscrapper for Covid Data
-  - <b>Raspberry Pi</b>
+- <b>Raspberry Pi</b>
   - Setting up Pihole
-  - <b>HackTheBox</b>
-  - <b>CTF Writeups</b>
-    - [TotalRekall Offensive Security Project](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/tree/main)
-  - <b>Bootcamp Activities</b>
+- <b>CTF Writeups</b>
+  - [TotalRekall Offensive Security Project](https://github.com/LurenLeon/Rekall-Offensive-Security-CTF/tree/main)
+- <b>Bootcamp Activities</b>
 
 
 <h2>Azure Projects</h2>
