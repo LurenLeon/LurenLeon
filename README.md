@@ -19,7 +19,7 @@
 - <b>Bootcamp Activities</b>
 
 
-<h2>Azure Projects</h2>
+<h2>Azure Projects (Work in Progress) </h2>
 
 - [Securing an Azure Web App](https://www.github.com)
 - [Creating a Honeypot with Azure and tracking Live Cyber Attacks!](https://github.com/LurenLeon/Azure-Sentinel--Mapping-Live-Cyber-Attacks/blob/main/README.md)
