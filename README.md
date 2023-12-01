@@ -20,13 +20,13 @@
 
 
 <h2>Azure Projects (Work in Progress) </h2>
-
-- [Securing an Azure Web App](https://www.github.com)
 - [Creating a Honeypot with Azure and tracking Live Cyber Attacks!](https://github.com/LurenLeon/Azure-Sentinel--Mapping-Live-Cyber-Attacks/blob/main/README.md)
+- [Securing an Azure Web App](https://www.github.com)
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LurenLeon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/ariana-leon-villar/
 
